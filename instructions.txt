@@ -1,0 +1,8 @@
+1) Run the bat file in the Zip file(after extracting it)
+2) Then after running it open the cmd prompt and run cd along with the file path where it is located
+3) after that run the command pip install PyAudio-0.2.11-cp310-cp310-win_amd64.whl
+4) Then boom you can run our code
+
+
+
+If any further problems contact us: Prajeeth, Sai Varshan (X'B')
